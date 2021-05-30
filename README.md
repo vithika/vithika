@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋,Welcome to my Profile  🙏🙏
 
 <!--
 **vithika/vithika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on creating React Native Mobile App 📱 for Lightning IOT Product ,involving Bluetooth Protocol,Azure Cloud Database and much more.
+- 🌱 I’m currently learning React Native with Typescript.
+- 👯 I’m looking to collaborate on Mobile apps 📱  Projects,Angular Projects,C#.
+- 💬 Ask me  anything about mobile apps development [Ionic,Android,ReactNative,Hybrid,Native Mobile Apps Development].
+- 📫 How to reach me:  📧 vgvithikagupta1@gmail.com Linkedin :- https://www.linkedin.com/in/vithika-gupta-81566a126/
+- ⚡ Fun fact: Ready to help you out and learn from you anytime.
+
+
