@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on creating React Native Mobile App 📱 for Lightning IOT Product ,involving Bluetooth Protocol,Azure Cloud Database and much more.
+- 🔭 I’m currently working on creating React Native Mobile App 📱 for Lightning IOT Product.
 - 🌱 I’m currently learning React Native with Typescript.
 - 👯 I’m looking to collaborate on Mobile apps 📱  Projects,Angular Projects,C#.
 - 💬 Ask me  anything about mobile apps development [Ionic,Android,ReactNative,Hybrid,Native Mobile Apps Development].
