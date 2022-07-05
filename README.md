@@ -3,7 +3,7 @@
 <!--
 **vithika/vithika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+- I'm currently learning Swift UI.
 - I'm currently working on React native mobile apps.
 - 🔭 I have worked on React Native Mobile App 📱 for Lightning IOT Product.
 - 👯 I’m looking to collaborate on Mobile apps 📱  Projects,Angular Projects,C#.
