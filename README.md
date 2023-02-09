@@ -1,4 +1,4 @@
-### Hi there 👋,Welcome to my Profile  🙏🙏
+### Hi there  I am Vithika Gupta from India 👋,Welcome to my Profile  🙏🙏
 
 <!--
 **vithika/vithika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,12 @@ Skills
 - Web Development
    - HTML,CSS,Javascript
    - MVC .Net Framework - C#
+
+
+### My Github Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vithika&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 Connect with me/Reach out to me:
 - Email:📩 vgvithikagupta1@gmail.com
