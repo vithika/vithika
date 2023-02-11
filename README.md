@@ -22,17 +22,39 @@
 </div>
 
 ### Skills
-  <ul><b> <u> Mobile App Development </u></b></ul>
-  <ul> React Native Framework </ul>
-  <ul> Ionic Framework </ul>
-  <ul> Xamarin Framework </ul>
-<ul><b> <u> Web Development </u></b></ul>
-   <ul> HTML,CSS,Javascript </ul>
-   <ul> MVC .Net Framework - C# </ul>
-
-
-
-
+   <a href="">
+    <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=black" alt="ReactBadge"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/ionic-blue?style=for-the-badge&logo=Android&logoColor=white" alt="ReactBadge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue" alt="ReactBadge"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Xamarin-blue?style=for-the-badge&logo=Xamarin&logoColor=white" alt="ReactBadge"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=white" alt="ReactBadge"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/ReactNative-black?style=for-the-badge&logo=react&logoColor=blue" alt="ReactBadge"/>
+  </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/NodeJS-darkgreen?style=for-the-badge&logo=Node.JS&logoColor=white" alt="ReactBadge"/>
+  </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="ReactBadge"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="ReactBadge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="ReactBadge"/>
+  </a>
+ 
+ 
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=vithika&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vithika&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -54,5 +76,6 @@ Connect with me/Reach out to me:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
 </div>
 
