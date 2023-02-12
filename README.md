@@ -35,7 +35,7 @@
  <div>
   <p><i>  I enjoy developing Mobile Applications.</i></p>
 <p><i> I'm currently learning Swift UI and React Native. 📱📚</i></p>
-   <i> I'm currently working on </i><a href="https://apps.apple.com/app/apple-store/id1491913104"><i>RB Logbook</i></a>
+   <i> I'm currently working on </i><a href="https://apps.apple.com/app/apple-store/id1491913104"><i>RB Logbook.The ultimate digital pilot logbook</i></a>
   <p></p>
 <p><i> I have worked on React Native Mobile App 📱 for Lightning IOT Product.</i></p>
 <p><i> 👯 I’m looking to collaborate on Mobile apps 📱Projects,Angular Projects,C#.</i></p>
@@ -79,7 +79,7 @@
  ### Latest Projects:
 
 <a href="https://apps.apple.com/app/apple-store/id1491913104">
-  <p>RB Logbook</p>
+  <p>RB LogbookThe ultimate digital pilot logbook.</p>
   </a>
  
  
