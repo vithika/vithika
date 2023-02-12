@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/6900386/vithika">
-    <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow &logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Stack Overflow-red?style=for-the-badge&logo=Stack Overflow&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,6 +23,10 @@
    <a href="https://www.instagram.com/_vithika.gupta_/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://vithikagupta609.wixsite.com/website">
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=WebAuthn&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
 </div>
 <!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.vithika}}) -->
 
