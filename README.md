@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-                                 
+                              
 
    ### Hi there  I am Vithika Gupta from India 👋  
    <div id="badges">
@@ -15,16 +15,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/6900386/vithika">
-    <img src="https://img.shields.io/badge/Stack Overflow-red?style=for-the-badge&logo=Stack Overflow&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Stack Overflow-red?style=for-the-badge&logo=Stack Overflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://www.instagram.com/_vithika.gupta_/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://vithikagupta609.wixsite.com/website">
-    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=WebAuthn&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=WebAuthn&logoColor=white" alt="website Badge"/>
   </a>
 
 </div>
