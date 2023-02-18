@@ -28,7 +28,7 @@
   </a>
 
 </div>
-<!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.vithika}}) -->
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.vithika}})
 
  ### Glad to see you here! 🙏🙏
 
