@@ -83,9 +83,7 @@
   </a>
  
  
-<img src="https://github-readme-stats.vercel.app/api?username=vithika&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vithika&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithika&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
